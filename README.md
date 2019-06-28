@@ -1,4 +1,4 @@
-# Square Array
+because# Square Array
 
 ## Learning Goals
 
